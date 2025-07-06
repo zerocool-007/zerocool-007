@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm **Maraka Duncan**, aka **Rustghost** — a telecommunications engineer, cyber analyst, and builder of intelligent systems with a touch of street-smart dev artistry.
+I'm a telecommunications engineer, cyber analyst, and builder of intelligent systems with a touch of street-smart dev artistry.
 
 ---
 
